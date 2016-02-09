@@ -1,0 +1,7 @@
+---
+applications:
+- name: download-droplet-integration-testapp
+  memory: 64m
+  buildpack: staticfile_buildpack
+  instances: 1
+
